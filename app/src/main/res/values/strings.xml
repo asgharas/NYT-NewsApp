@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">AdapterPractice</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="choose_news_section">choose News Section</string>
+
+    <string-array name="search_sections">
+        <item>HomePage</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>ArtandDesign</item>
+        <item>Arts</item>
+        <item>AsiaPacific</item>
+        <item>Automobile</item>
+        <item>Baseball</item>
+        <item>Books</item>
+        <item>Business</item>
+        <item>Climate</item>
+        <item>CollegeBasketball</item>
+        Colle<item>eFootball</item>
+        <item>Dance</item>
+        <item>Dealbook</item>
+        <item>DiningandWine</item>
+        <item>Economy</item>
+        <item>Education</item>
+        <item>EnergyEnvironment</item>
+        <item>Europe</item>
+        <item>FashionandStyle</item>
+        <item>Golf</item>
+        <item>Health</item>
+        <item>Hockey</item>
+        <item>Jobs</item>
+        <item>Lens</item>
+        <item>MediaandAdvertising</item>
+        <item>MiddleEast</item>
+        <item>MostEmailed</item>
+        <item>MostShared</item>
+        <item>MostViewed</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>NYRegion</item>
+        <item>Obituaries</item>
+        <item>PersonalTech</item>
+        <item>Politics</item>
+        <item>ProBasketball</item>
+        <item>ProFootball</item>
+        <item>RealEstate</item>
+        <item>Science</item>
+        <item>SmallBusiness</item>
+        <item>Soccer</item>
+        <item>Space</item>
+        <item>Sports</item>
+        <item>SundayBookReview</item>
+        <item>Sunday-Review</item>
+        <item>Technology</item>
+        <item>Television</item>
+        <item>Tennis</item>
+        <item>Theater</item>
+        <item>TMagazine</item>
+        <item>Travel</item>
+        <item> Upshot</item>
+        <item> US</item>
+        <item>Weddings</item>
+        <item> Well</item>
+        <item>YourMoney</item>
+    </string-array>
+</resources>
