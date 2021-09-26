@@ -1,4 +1,4 @@
-package com.asghar.adapterpractice;
+package com.asghar.newyorktimesrssfeed;
 
 import androidx.annotation.NonNull;
 

@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.asghar.adapterpractice.MainActivity">
+    tools:context="com.asghar.newyorktimesrssfeed.MainActivity">
     <item android:title="@string/choose_news_section"
         android:id="@+id/action_bar_spinner"
         app:actionViewClass="androidx.appcompat.widget.AppCompatSpinner"

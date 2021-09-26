@@ -1,4 +1,4 @@
-package com.asghar.adapterpractice;
+package com.asghar.newyorktimesrssfeed;
 
 import android.os.Handler;
 import android.os.Looper;
