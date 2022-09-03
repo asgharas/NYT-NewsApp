@@ -1,4 +1,4 @@
-# New-York-Times-RSS-Feed-App
+# New York Times RSS Feed App
 An Android App which fetches News Articles from NewYorkTimes' RSS Feed API and shows them in a Webview
 
 
